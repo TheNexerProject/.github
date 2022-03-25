@@ -5,5 +5,7 @@
     <br>
     <hr>
     <h3>Help us build our community on Discord.</h3>
+    <a href="https://discord.gg/CVCQPakcfg">Click here</a> to join us.
+    <br>
     <img src="https://discordapp.com/api/guilds/956600349286887434/widget.png?style=banner2" alt="Discord Banner 2"/>
 </div>
