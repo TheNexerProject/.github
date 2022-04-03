@@ -1,10 +1,12 @@
 <div align="center">
-    <img height=400px src="/Profile Readme File Assets/The Nexer Project Logo Banner With Shadow and Rounded Corners - 2690x1570.png">
+    <img src="/Profile Readme File Assets/The Nexer Project Banner With Rounded Corners - 1000x500.png">
     <h1>The Nexer Project</h1>
-    <h3>Welcome in The Nexer Project. Our goal is to create modern, better and easier to use software.</h3>
+    <p>Welcome in The Nexer Project. Our goal is to create modern, better and easier to use software.</p>
     <hr>
-    <h3>Help us build our community on Discord.</h3>
-    <a href="https://discord.gg/CVCQPakcfg">Click here</a> to join us.
-    <br><br>
-    <img src="https://discordapp.com/api/guilds/956600349286887434/widget.png?style=banner2" alt="Discord Banner 2"/>
+    <h2>Help us build our community on Discord.</h2>
+    <a href="https://discord.gg/CVCQPakcfg">Click here</a> or banner below to join us.
+    <br>
+    <a href="https://discord.gg/CVCQPakcfg">
+        <img src="https://discordapp.com/api/guilds/956600349286887434/widget.png?style=banner2" alt="Discord Server Banner">
+    </a>
 </div>
